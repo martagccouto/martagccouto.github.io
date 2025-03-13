@@ -2,7 +2,7 @@
 title:               'Marta Couto'
 tagline:             'Postdoctoral researcher @ University of Amsterdam'
 description:         'A description'
-url:                 http://martagccouto.github.io
+url:                 https://martagccouto.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
