@@ -5,14 +5,14 @@ title: Publications
 
 <br>
 
-Wang X, Couto MC, Wang N, An X, Chen B, Dong Y, Hilbe C, Zhang B (2023).
-[*Cooperation and coordination in heterogeneous populations.*](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0504)
-**Philosophical Transactions of the Royal Society B**, 378:20210504.
-
-
 Couto MC, Pal S (2023).
 [*Introspection Dynamics in Asymmetric Multiplayer Games.*](https://doi.org/10.1007/s13235-023-00525-8) 
 **Dynamic Games and Applications**, 13, 1256–1285.
+
+
+Wang X, Couto MC, Wang N, An X, Chen B, Dong Y, Hilbe C, Zhang B (2023).
+[*Cooperation and coordination in heterogeneous populations.*](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0504)
+**Philosophical Transactions of the Royal Society B**, 378:20210504.
 
 
 Couto MC, Giaimo S, Hilbe C (2022).

@@ -1,6 +1,6 @@
 # Setup
 title:               'Marta C Couto'
-tagline:             'Postdoctoral researcher @ University of Amsterdam'
+tagline:             'Postdoctoral researcher, University of Amsterdam'
 description:         ''
 url:                 https://martagccouto.github.io
 baseurl:             ''
@@ -25,3 +25,4 @@ social:
   twitter: "https://x.com/martaccouto"
   github: "https://github.com/martagccouto"
   researchgate: "https://www.researchgate.net/profile/Marta-Couto-3"
+  googlescholar: "https://scholar.google.de/citations?user=ZbYvBcUAAAAJ&hl=en"
