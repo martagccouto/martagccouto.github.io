@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body class="theme-base-0b">
-    
+
   </body>
 
 
@@ -15,15 +15,21 @@
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
+         <div class="wrap">
+          <div class="masthead">
+            <div class="container">
+              <h3 class="masthead-title">
+                <span class="title-container">
+                  <img src="{{ site.baseurl }}/picture.png" class="logo">
+                  <div class="text-container">
+                    <a href="{{ site.baseurl }}/" title="Home" class="site-title">{{ site.title }}</a>
+                    <small class="tagline">{{ site.tagline }}</small>
+                  </div>
+                </span>
+              </h3>
+            </div>
+          </div>
         </div>
-      </div>
 
       <div class="container content">
         {{ content }}
