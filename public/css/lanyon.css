@@ -72,6 +72,7 @@ h1, h2, h3, h4, h5, h6 {
  * Center the page content.
  */
 
+
 .container {
   max-width: 28rem;
 }
@@ -247,6 +248,14 @@ a.sidebar-nav-item:focus {
   background-color: #fff;
   border-radius: .25rem;
   cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {  /* Adjust for mobile screens */
+  .sidebar-toggle {
+      position: absolute;
+      top:  8rem;
+      left: 1rem;
+  }
 }
 
 .sidebar-toggle::before {
