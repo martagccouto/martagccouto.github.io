@@ -5,6 +5,18 @@ title: Publications
 
 <br>
 
+Couto MC, Barsotti F, Santos FP (2025).
+[*Population size effects on strategic classification dynamics.*](https://openreview.net/forum?id=H3cnXiXGjn) **The 25th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)**
+
+
+Couto MC, Barsotti F, Santos FP (2025).
+[*Collective dynamics of strategic classification.*](https://doi.org/10.48550/arXiv.2508.09340) **arXiv**, arXiv:2508.09340
+
+
+Couto MC, Santos FP, Hilbe C (2025).
+[*Evolution of boundedly rational learning in games.*](https://doi.org/10.48550/arXiv.2506.21498) **arXiv**, arXiv:2506.21498
+
+
 Couto MC, Pal S (2023).
 [*Introspection Dynamics in Asymmetric Multiplayer Games.*](https://doi.org/10.1007/s13235-023-00525-8) 
 **Dynamic Games and Applications**, 13, 1256–1285.
@@ -24,8 +36,5 @@ Couto MC, Pacheco JM, & Santos FC (2020). [*Governance of Risky Public Goods und
 
 <br>
 
-###### **Working papers**
 
-
-Couto MC, Santos FP, Hilbe C (2025). *Evolution of boundedly rational learning in games.*  
 
