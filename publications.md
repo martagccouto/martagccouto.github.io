@@ -5,16 +5,20 @@ title: Publications
 
 <br>
 
+Couto MC, Santos FP, Hilbe C (2026).
+[*Evolution of noisy learning in games.*](https://www.pnas.org/doi/abs/10.1073/pnas.2529959123) **Proceedings of the National Academy of Sciences**
+
+
+Franco GD, Couto MC, Vasconcelos VV, Santos FP (2026).
+[*Combining opinion and structural similarity in link recommendations to counter extreme polarization.*](https://doi.org/10.48550/arXiv.2604.20641) **arXiv**, arXiv:2604.20641
+
+
 Couto MC, Barsotti F, Santos FP (2025).
 [*Population size effects on strategic classification dynamics.*](https://openreview.net/forum?id=H3cnXiXGjn) **The 25th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)**
 
 
 Couto MC, Barsotti F, Santos FP (2025).
 [*Collective dynamics of strategic classification.*](https://doi.org/10.48550/arXiv.2508.09340) **arXiv**, arXiv:2508.09340
-
-
-Couto MC, Santos FP, Hilbe C (2025).
-[*Evolution of boundedly rational learning in games.*](https://doi.org/10.48550/arXiv.2506.21498) **arXiv**, arXiv:2506.21498
 
 
 Couto MC, Pal S (2023).
@@ -32,7 +36,22 @@ Couto MC, Giaimo S, Hilbe C (2022).
 **New Journal of Physics**, 24:063010.
 
 
-Couto MC, Pacheco JM, & Santos FC (2020). [*Governance of Risky Public Goods under Graduated Punishment.*](https://doi.org/10.1016/j.jtbi.2020.110423) **Journal of Theoretical Biology**, 505:110423. 
+Couto MC, Pacheco JM, & Santos FC (2020). [*Governance of Risky Public Goods under Graduated Punishment.*](https://doi.org/10.1016/j.jtbi.2020.110423) **Journal of Theoretical Biology**, 505:110423.  
+
+<br>
+
+## Press releases & media articles
+
+<br>
+
+[*‘Sloppy’ choices help humanity to progress*](https://www.folia.nl/en/wetenschap/175683/sloppy-choices-help-humanity-to-progress) by Folia (2026)
+
+[*When ‘sloppy’ decisions are actually smart*](https://www.uva.nl/en/shared-content/subsites/informatics-institute/en/news/2026/05/when-sloppy-decisions-are-actually-smart.html?origin=kUP%2Byx6UTZqvuJiCJKnnEQ) by University of Amsterdam (2026)
+
+[*When noisy decision-making becomes a strategic advantage*](https://www.evolbio.mpg.de/3882136/news_publication_26530016_transferred?c=15503%EF%BF%BC) by Max Planck Institute for Evolutionary Biology (2026)
+
+[*How does inequality affect cooperation and coordination?*](https://www.evolbio.mpg.de/3663151/news_publication_20030787_transferred?c=15503) by Max Planck Institute for Evolutionary Biology (2023)
+
 
 <br>
 
